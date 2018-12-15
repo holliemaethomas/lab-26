@@ -11,5 +11,5 @@
 
 
 
-#### UML
-[UML](./lab26UML.jpg)
+
+![UML](./lab26UML.jpg)
