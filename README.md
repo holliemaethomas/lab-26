@@ -7,9 +7,7 @@
 
 ### Links and Resources
 * [sandBox](https://codesandbox.io/s/ymwv2x7y1z)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+
 
 
 
